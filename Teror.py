@@ -102,7 +102,10 @@ print("")
 print("")
 print("")
 print (" ")
-up = input(" Acc 1 + Chanel 2 + Gp 3 ~ >> " )
+up = input("
+             Acc 1 
+               Chanel 2 
+                     Gp 3 ~ >> " )
 print(f"{blue} ")
 
 
@@ -125,7 +128,7 @@ if up != "2":
 
 if up == "3":
 
-        print (' GP Cod ==' + '%s%https://xexsx.py.5.3.6.3.6.6.4.7.4.7.4.7.8.8..7.8.5.7.8.5.8.5.8.8.5.(8.7.9.3.2.1)(.lnykt18)/(4.0.3.4/F/h.157.621/3749.93) %s' % (fg('red'), bg('black'), attr('reset')))
+        print (' GP Cod ==' + '%a%  (4.0.7.5/e////fg/5.2.7.9.0.2.3.1.3.4.5.5.2.1.5.7.2.7.8.6.9.9.0.1/) %a' % (fg('red'), bg('black'), attr('reset')))
 
 
 
