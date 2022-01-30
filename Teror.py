@@ -35,59 +35,70 @@ print("started " + (x))
 print(f"{blue} ")
 print ("         Script By")
 print (Fore.BLUE + "")
-x = """ Mehrab
+x = """               .. ... ....                                               Mehrab
 
 
 
 
 Hello My Friend Im Mehrab Teror I am filtering and I want to give you, my friends, a filtering code. I hope you use it correctly. Thank you.
 
-GOD FIltering Rubika >~Mehrab Teror>
-                           ▄▄▄  ▄▄▄                               ███  ███
-                           ████████
-                           ██ ██ ██
-                           ██ ▀▀ ██
-                           ██    ██                               ▀▀    ▀▀
+GOD FIltering Rubika >~Mehrab Teror>_
 
- │                                                                    ███████╗                            
-│                             █
-                               █╔════╝                              │
-│                             █████╗                               │
-│                             ██╔══╝                               │
-│                             ███████╗                             │
-│                              ══════╝
-│       
+                            ▄▄▄  ▄▄▄   
+                            ███  ███
+                            ████████
+                            ██ ██ ██
+                            ██ ▀▀ ██
+                            ██    ██                             
+                            ▀▀    ▀▀
 
-                               ██╗  ██╗                             │
-│                              ██║  ██║                             │
-│                              ███████║                             │
-│                              ██╔══██║                             │
-│                              ██║  ██║                             │
-│                              ╚═╝  ╚═╝                             │
+                                                            
+                              ███████╗                            
+                              █╔════╝                              
+                              █████╗                               
+                              ██╔══╝                               
+                              ███████╗                             
+                               ══════╝
+        
+
+                               ██╗  ██╗                             
+                               ██║  ██║                             
+                               ███████║                             
+                               ██╔══██║                             
+                               ██║  ██║                             
+                               ╚═╝  ╚═╝                             
 
 
 
-│                              ██████╗                              │
-│                              ██╔══██╗                             │
-│                              ██████╔╝                             │
-│                              ██╔══██╗                             │
-│                              ██║  ██║                             │
-│                              ╚═╝  ╚═╝                 
+                               ██████╗                              
+                               ██╔══██╗                             
+                               ██████╔╝                             
+                               ██╔══██╗                             
+                               ██║  ██║                             
+                               ╚═╝  ╚═╝                 
 
-││                                                                    
-                               ██╔══██╗                             │
-│                              ███████║                             │
-│                              ██╔══██║                             │
-│                              ██║  ██║                             │
-│                              ╚═╝  ╚═╝                             │
+                                ██████                             
+                               ██╔══██╗                             
+                               ███████║                             
+                               ██╔══██║                             
+                               ██║  ██║                             
+                               ╚═╝  ╚═╝                             
 
-│                             
-                               ██████╗                              │
-│                              ██╔══██╗                             │
-│                              ██████╔╝                             │
-│                              ██╔══██╗                             │
-│                              ██████╔╝                             │
-│                              ╚═════╝                              │
+                              
+                               ██████╗                              
+                               ██╔══██╗                             
+                               ██████╔╝                             
+                               ██╔══██╗                             
+                               ██████╔╝                             
+                               ╚═════╝   
+
+
+
+
+
+
+
+                           
                      new~acont~rubika:@Hunter_bug
                        id tel:@My_serverr
 
@@ -103,9 +114,15 @@ print("")
 print("")
 print (" ")
 up = input("
-             Acc 1 
-               Chanel 2 
-                     Gp 3 ~ >> " )
+
+
+
+
+
+
+          _   Acc 1 _
+            _   Chanel 2 _
+                   _  Gp 3 ~ _>> " )
 print(f"{blue} ")
 
 
@@ -179,17 +196,17 @@ print ("   The End")
 time.sleep(0.5)
 print ("   Bye Bye ")
 time.sleep(0.4)
-print ("   God Filtering")
+print ("   Finisheed")
 time.sleep(0.3)
-print ("   Megrab Teror")
+print ("   the Teror")
 time.sleep(0.2)
 print ("   Tank You")
 time.sleep(0.1)
-print ("   I Love")
+print ("   I  Love")
 time.sleep(0.5)
 print ("   Mehrab")
 time.sleep(0.1)
-print ("   Bye")
+print ("   M bye")
 print ("")
 time.sleep(1)
 print(f"{red} ")
