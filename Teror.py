@@ -113,7 +113,7 @@ print("")
 print("")
 print("")
 print (" ")
-up = input("
+up = input("""
 
 
 
@@ -122,7 +122,7 @@ up = input("
 
           _   Acc 1 _
             _   Chanel 2 _
-                   _  Gp 3 ~ _>> " )
+                   _  Gp 3 ~ _>> """ )
 print(f"{blue} ")
 
 
